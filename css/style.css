@@ -1,0 +1,10 @@
+.luke{
+    height: 6em;
+    width: 6em;
+    border: none;
+    background-color: transparent;
+}
+
+.luke > img{
+    width: 100%;
+}
